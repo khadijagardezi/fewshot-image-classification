@@ -1,0 +1,40 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data & outputs (large files)
+images/
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+outputs/
+runs/
+
+# Submissions (keep sample, ignore generated ones)
+submission*.csv
+!sample_submission.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
+*.env
