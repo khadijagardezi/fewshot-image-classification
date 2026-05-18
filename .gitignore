@@ -10,7 +10,6 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Data & outputs (large files)
 images/
